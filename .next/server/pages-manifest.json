@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/api/task": "pages/api/task.js",
-  "/api/task/[id]": "pages/api/task/[id].js"
+  "/api/task": "pages/api/task.js"
 }
